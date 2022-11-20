@@ -1,0 +1,70 @@
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe.config
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\bin\Debug\kutuphanem.pdb
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csprojResolveAssemblyReference.cache
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Form1.resources
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Properties.Resources.resources
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.GenerateResource.Cache
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.exe
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.pdb
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.anamenu.resources
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yardim.resources
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitap_turu.resources
+c:\users\filiz\documents\visual studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yazin_turu.resources
+C:\Users\Filiz\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapekle.resources
+C:\Users\Filiz\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulekle.resources
+C:\Users\Filiz\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulsil.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe.config
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.exe
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.pdb
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\bin\Debug\kutuphanem.pdb
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csprojResolveAssemblyReference.cache
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.anamenu.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Form1.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapekle.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitap_turu.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulekle.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulsil.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Properties.Resources.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yardim.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yazin_turu.resources
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.GenerateResource.Cache
+C:\Users\Onur GÜRLER\Documents\Visual Studio 2013\Projects\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapbilgun.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe.config
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\bin\Debug\kutuphanem.pdb
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csprojAssemblyReference.cache
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.anamenu.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Form1.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapbilgun.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapekle.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitap_turu.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulekle.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulsil.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Properties.Resources.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yardim.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yazin_turu.resources
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.GenerateResource.cache
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.exe
+C:\Users\Okul\Downloads\kutuphanem_sonfonksiyon\kutuphanem\kutuphanem\obj\Debug\kutuphanem.pdb
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe.config
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\bin\Debug\kutuphanem.exe
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\bin\Debug\kutuphanem.pdb
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.AssemblyReference.cache
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.anamenu.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Form1.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapbilgun.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitapekle.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kitap_turu.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulekle.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.kulsil.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.Properties.Resources.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yardim.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.yazin_turu.resources
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.GenerateResource.cache
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.csproj.CoreCompileInputs.cache
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.exe
+C:\Users\kerem\Desktop\kutuphanem\kutuphanem\obj\Debug\kutuphanem.pdb
